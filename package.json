@@ -1,0 +1,24 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "This is package init",
+  "main": "INDEX.HTML",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuklaneeraj/practice1.git"
+  },
+  "author": "Neeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuklaneeraj/practice1/issues"
+  },
+  "homepage": "https://github.com/shuklaneeraj/practice1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
